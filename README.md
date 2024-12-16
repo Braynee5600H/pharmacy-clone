@@ -15,6 +15,4 @@ This is the front end of the **MSICS Pharma** website. It is built using HTML an
 ## Working
 Check the website working here:.
 
-## Contact
-For questions, email **developer@gmail.com**.
 
